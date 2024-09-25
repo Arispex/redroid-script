@@ -7,7 +7,7 @@ class Gapps(General):
     dl_links = {
             "x86_64": ["https://nchc.dl.sourceforge.net/project/opengapps/x86_64/20220503/open_gapps-x86_64-10.0-pico-20220503.zip", "5fb186bfb7bed8925290f79247bec4cf"],
             "x86": ["https://cfhcable.dl.sourceforge.net/project/opengapps/x86/20220503/open_gapps-x86-10.0-pico-20220503.zip", "7fc75ec9bdca8def07bad306345ce877"],
-            "arm64-v8a": ["https://nchc.dl.sourceforge.net/project/opengapps/arm64/20220503/open_gapps-arm64-10.0-pico-20220503.zip", "2feaf25d03530892c6146687ffa08bc2"],
+            "arm64-v8a": ["https://alist.arispex.com/d/Local/redroid-script/open_gapps-arm64-10.0-pico-20220503.zip", "2feaf25d03530892c6146687ffa08bc2"],
             "armeabi-v7a": ["https://cfhcable.dl.sourceforge.net/project/opengapps/arm/20220215/open_gapps-arm-10.0-pico-20220215.zip", "1d00ffa4594734d477b10f2e0ee19c0b"]
         }
     arch = host()
